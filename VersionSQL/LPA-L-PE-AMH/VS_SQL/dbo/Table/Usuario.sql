@@ -4,6 +4,7 @@ SET ANSI_NULLS ON
 SET QUOTED_IDENTIFIER ON
 CREATE TABLE [dbo].[Usuario](
 	[Id] [int] NOT NULL,
-	[Nombre] [nvarchar](50) NULL
+	[Nombre] [nvarchar](50) NULL,
+	[Passwd] [nvarchar](50) NULL
 ) ON [PRIMARY]
 
