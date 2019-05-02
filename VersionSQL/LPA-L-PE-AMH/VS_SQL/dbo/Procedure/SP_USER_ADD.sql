@@ -1,7 +1,7 @@
 /****** Object:  Procedure [dbo].[SP_USER_ADD]    Committed by VersionSQL https://www.versionsql.com ******/
 
 -- =============================================
--- Author:		<Author,,Name>
+-- Author:		<Alejandro>
 -- Create date: <Create Date,,>
 -- Description:	<Description,,>
 -- =============================================
